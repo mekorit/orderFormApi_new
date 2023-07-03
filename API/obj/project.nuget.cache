@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoVI8qDfASlSOrFCdNw4IRmWYTajaWRF5dpqe00wv99RkHX5ciMYmusumH0Vxvh1573+vGQlwbG7QS1WeuSUSQ==",
+  "success": true,
+  "projectFilePath": "A:\\עטיפות בסיעתא דשמיא\\שונות\\Mekorit\\OrderFormAPINew\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
