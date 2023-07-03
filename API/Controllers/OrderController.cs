@@ -15,7 +15,7 @@ namespace AuthServer.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return Ok("345");
+            return Ok("22");
         }
 
 
