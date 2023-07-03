@@ -29,3 +29,10 @@ A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\A
 A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\obj\Debug\net6.0\API.pdb
 A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\obj\Debug\net6.0\ref\API.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\עטיפות בסיעתא דשמיא\שונות\Mekorit\OrderFormAPINew\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs

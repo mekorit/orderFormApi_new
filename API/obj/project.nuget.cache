@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EoVI8qDfASlSOrFCdNw4IRmWYTajaWRF5dpqe00wv99RkHX5ciMYmusumH0Vxvh1573+vGQlwbG7QS1WeuSUSQ==",
+  "dgSpecHash": "Ytpjp7FyeV1o/TGAUHuja4gUmAHEEi6A/Yebw904GKOUntXLcRRdv5KB6zs/q9dRoxaRtqf92IJ8Htw56YOIXQ==",
   "success": true,
   "projectFilePath": "A:\\עטיפות בסיעתא דשמיא\\שונות\\Mekorit\\OrderFormAPINew\\API\\API\\API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
