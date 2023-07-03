@@ -9,14 +9,10 @@ builder.Services.AddRazorPages();
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddCors(options =>
+builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
 {
-    options.AddPolicy("general", builder =>
-    {
-        builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
-    });
-});
-
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +27,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseCors("corsapp");
 
 app.UseAuthorization();
 
