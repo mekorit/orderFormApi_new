@@ -26,11 +26,11 @@ namespace AuthServer.Controllers
             bool res = false;
             if (IsValidEmail(dataOrder.mail))
             {
-                res = OrdersManager.Send(dataOrder.mail, "מקורית- הפריטים שהוזמנו", dataOrder.tableItemsOrdered, "", "", "", "", null, "", "", "mhazmanot38@gmail.com", "rzrcoaqrseeeittj");
+                res = OrdersManager.Send(dataOrder.mail, "מקורית- הפריטים שהוזמנו", dataOrder.tableItemsOrdered, "", "", "", "", null, "", "", "mekorit.orders@gmail.com", "cfanaqzrhbycdqed");
             }
             if (res)
             {
-                res = OrdersManager.Send("mhazmanot38@gmail.com", "MekoritOrderForm_From_Website", JsonConvert.SerializeObject(dataOrder), "", "", "", "", null, "", "", "mhazmanot38@gmail.com", "rzrcoaqrseeeittj");
+                res = OrdersManager.Send("mekorit.orders@gmail.com", "MekoritOrderForm_From_Website", JsonConvert.SerializeObject(dataOrder), "", "", "", "", null, "", "", "mekorit.orders@gmail.com", "cfanaqzrhbycdqed");
             }
             return res;
         }

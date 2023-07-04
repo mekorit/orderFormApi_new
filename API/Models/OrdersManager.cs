@@ -25,14 +25,14 @@ namespace API.Models
                 if (fromAddressEmail != "")
                     fromAddress = fromAddressEmail;
                 else
-                    fromAddress = "m035493883@gmail.com";
+                    fromAddress = "mekorit.orders@gmail.com";
 
                 SmtpClient smtp = new SmtpClient("smtp.gmail.com")
                 {
                     Port = 587,
                     UseDefaultCredentials = false,
                     DeliveryMethod = SmtpDeliveryMethod.Network,
-                    Credentials = new NetworkCredential(fromAddressEmail == "" ? "m035493883@gmail.com" : fromAddressEmail, fromAddressPassword == "" ? "wzdnrtetdqdcbuhs" : fromAddressPassword),
+                    Credentials = new NetworkCredential(fromAddressEmail == "" ? "mekorit.orders@gmail.com" : fromAddressEmail, fromAddressPassword == "" ? "cfanaqzrhbycdqed" : fromAddressPassword),
                     EnableSsl = true,
                 };
                 smtp.Timeout = int.MaxValue;
