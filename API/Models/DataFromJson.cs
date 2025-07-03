@@ -56,6 +56,11 @@ namespace API.Models
         public string colorNumberEnglish { get; set; } = "";
         public double totalPrice { get; set; } = 0;
         public string remark { get; set; } = "";
+        public bool bottle { get; set; } = false;
+        public bool Keychain { get; set; } = false;
+        public string personalNameProduct { get; set; } = "";
+        public string fontProduct { get; set; } = "";
+
 
     }
 
