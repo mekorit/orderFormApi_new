@@ -37,10 +37,9 @@ namespace AuthServer.Controllers
 
         bool IsValidEmail(string email)
         {
-            string regex = @"^[^@\s]+@[^@\s]+\.(com|net|org|gov)$";
-
+            string regex = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
             return Regex.IsMatch(email, regex, RegexOptions.IgnoreCase);
-
         }
+
     }
 }
